@@ -6,4 +6,4 @@ and btw, i concluded with my very own insight for the conclusion and the descrip
 
 have a nice day.
 
-*Uploaded later after my lecturer grade it.
+*Upload it later after my lecturer grade it.
