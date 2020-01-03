@@ -1,4 +1,5 @@
-# PISA_HAPPINESS_ANALYZE
+# PISA_Score-and-Happiness-Analyze
+
 did it for data warehouse and business intelligent assignment. i dont know if the data is legit or nah but anyway.
 
 All steps including data cleaning, data transforming, data connecting, and analyzing using query powered by PowerBI (the pun!) using DAX and dashboard using basic visualization.
